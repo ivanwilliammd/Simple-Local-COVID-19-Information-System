@@ -1,0 +1,4 @@
+VERSION = "1.5.0"
+BUILD_DATE = "2020-04-07T13:12:44.751234"
+AUTHOR = "dr. Ivan William Harsono, MTI"
+DEBUGGING = False
