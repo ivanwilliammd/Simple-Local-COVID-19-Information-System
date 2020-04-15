@@ -7,6 +7,12 @@ However, since COVID-19 outbreak, to ease surveillance process of people with re
 
 Note: for data privacy, I will use dummy data in this repo as template table data
 
+
+## How to cite this code
+```
+Ivan William Harsono. (2020, April 15). ivanwilliammd/Simple-Local-COVID-19-Information-System: Initial Commit (Version v1.0-alpha). Zenodo. http://doi.org/10.5281/zenodo.3753157
+```
+
 ## Prerequisite 
 - Python
 - Jupyter notebook/IPython (Optional for ease debugging process)
