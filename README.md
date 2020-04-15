@@ -1,4 +1,5 @@
 # Simple Local COVID-19 Information System
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.3753157.svg)](https://doi.org/10.5281/zenodo.3753157)
 Simple mini-Python apps for "Simple Local COVID-19 Surveillance Information System in Primary Health Care" made during my medical doctor internsip practice at Public Health Care (Puskesmas) located in Tangerang City. Tangerang City Health System use online integrated medical record based on [ePuskesmas](epuskesmas.id) and [ePuskesmas Kota Tangerang](https://kotatangerang.epuskesmas.id/)
 
 However, since COVID-19 outbreak, to ease surveillance process of people with respiratory symptoms, it is integrate specific apps in addition of standard technology provided to us by public health office (Dinas Kesehatan). This is some of apps, used in conjunction with Google Forms, Awesome Table, Google sheet, Google My Map, and ePuskesmas database.
